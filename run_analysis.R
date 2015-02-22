@@ -13,7 +13,7 @@ library(plyr)
 library(dplyr)
 # 7352 entries in train data
 # 2947 entries in test data
-setwd("C:\\Users\\motazel\\OneDrive\\Documents\\Courses\\DataScienceJHUCoursera\\DataCleaning_Course\\Project\\getdata_projectfiles_UCI HAR Dataset\\UCI HAR Dataset")
+# setwd("C:\\Users\\motazel\\OneDrive\\Documents\\Courses\\DataScienceJHUCoursera\\DataCleaning_Course\\Project\\getdata_projectfiles_UCI HAR Dataset\\UCI HAR Dataset")
 
 
 # 1.Merges the training and the test sets to create one data set.
